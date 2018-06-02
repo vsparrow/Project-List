@@ -1,11 +1,11 @@
 # Project-List
 List of projects worked on by M Khan
 
-  * Recruiter Review - review recruiters
-  * Online Poker - play poker
-  * Flex - view high fashion items
+  * [Recruiter Review - review recruiters](#recruiter-review)
+  * [Online Poker - play poker](#online-poker)
+  * [Flex - view high fashion items](#flex)
   * [Gym - website for a gym](#gym) 
-  * Greatest Movies Of All Time Interactive Database 
+  * [Greatest Movies Of All Time Interactive Database](#greatest-movies-of-all-time-ineractive-database) 
   
 Scroll down for more information
 
