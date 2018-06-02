@@ -1,6 +1,8 @@
 # Project-List
 List of projects worked on by M Khan
 
+********************************************************************************************************
+
 # Recruiter Review
 Flatiron Module 5 project
 
@@ -82,3 +84,47 @@ Users are able to
   * [Front end](https://github.com/vsparrow/flex_frontend)
 
   * [Back end](https://github.com/vsparrow/flex_backend)
+  
+********************************************************************************************************
+
+# Gym
+Flatiron Module 2 pair programming project
+
+Website for "the Flatiron gym" 
+
+Users are able to 
+  * Create accounts / Login   
+  
+  * View / Search / Join gym classes and trainers
+
+  * Search by keyword
+  
+  * Admin only page with Analytics and Forcasting
+
+#### Tech Stack
+  * Ruby On Rails
+  
+  * Javascript
+  
+  * Bootstrap
+  
+#### Link to Project's github folder
+
+  * [Front end](https://github.com/vsparrow/Gym)
+  
+********************************************************************************************************
+
+# Greatest Movies Of All Time Interactive Database 
+Flatiron Module 1 pair programming project
+
+Command Line application to view a curated list of movies
+
+Users are able to 
+  * View results based on selection    
+
+#### Tech Stack
+  * Ruby
+  
+#### Link to Project's github folder
+
+  * [Front end](https://github.com/vsparrow/module-one-final-project-guidelines-web-022018)
