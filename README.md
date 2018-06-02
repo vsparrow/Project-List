@@ -13,14 +13,14 @@ Users are able to
 
   * View / Create comments
 
-## Tech Stack
+#### Tech Stack
   * React
   
   * Ruby On Rails
   
   * Bootstrap
   
-## Link to Project's github folder
+#### Link to Project's github folder
 
   * [Front end](https://github.com/vsparrow/RecruiterReviewFrontend)
 
