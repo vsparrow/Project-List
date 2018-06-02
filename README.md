@@ -5,7 +5,7 @@ List of projects worked on by M Khan
   * [Online Poker - play poker](#online-poker)
   * [Flex - view high fashion items](#flex)
   * [Gym - website for a gym](#gym) 
-  * [Greatest Movies Of All Time Interactive Database](#greatest-movies-of-all-time-ineractive-database) 
+  * [Greatest Movies Of All Time Interactive Database](#greatest-movies) 
   
 Scroll down for more information
 
