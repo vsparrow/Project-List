@@ -98,7 +98,7 @@ Users are able to
 # Gym
 Flatiron Module 2 pair programming project
 
-Website for "the Flatiron gym" 
+Website for "Planet Flatiron gym" 
 
 Users are able to 
   * Create accounts / Login   
@@ -119,6 +119,10 @@ Users are able to
 #### Link to Project's github folder
 
   * [Front end](https://github.com/vsparrow/Gym)
+
+#### Link to demo
+
+  * [Video](https://youtu.be/djHPcnEtOhI)
   
 ********************************************************************************************************
 
