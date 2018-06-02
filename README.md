@@ -30,7 +30,7 @@ Users are able to
 # Online Poker
 Flatiron Module 4 pair programming project
 
-Play poker online, make bets against your oppenent. 
+Play poker online, make bets against your oppenent
 
 Users are able to 
   * Start a new game  
@@ -55,3 +55,30 @@ Users are able to
 #### Single Player 
   * Branch "singleplayer" was made for testing a single player version 
   * Single player components added and Multiplayer compenents stripped out
+
+********************************************************************************************************
+
+# Flex
+Flatiron Module 3 pair programming project
+
+View high fashion clothes that will allow you to "flex", stand out to others 
+
+Users are able to 
+  * Click thumnails to view item's show page  
+  
+  * Filter by genre and sort by price
+
+  * Search by keyword
+
+#### Tech Stack
+  * Javascript (Vanilla)
+  
+  * Ruby On Rails
+  
+  * Bootstrap
+  
+#### Link to Project's github folder
+
+  * [Front end](https://github.com/vsparrow/flex_frontend)
+
+  * [Back end](https://github.com/vsparrow/flex_backend)
