@@ -35,6 +35,10 @@ Users are able to
   * [Front end](https://github.com/vsparrow/RecruiterReviewFrontend)
 
   * [Back end](https://github.com/vsparrow/RecruiterReviewBackend)
+  
+#### Link to demo
+
+  * [Video](https://youtu.be/6ZQ7yxhX2vc)  
 
 ********************************************************************************************************
 # Online Poker
@@ -66,6 +70,9 @@ Users are able to
   * Branch "singleplayer" was made for testing a single player version 
   * Single player components added and Multiplayer compenents stripped out
 
+#### Link to demo
+
+  * [Video - branch single player](https://youtu.be/G3ATimpkO6k)
 ********************************************************************************************************
 
 # Flex
@@ -92,6 +99,10 @@ Users are able to
   * [Front end](https://github.com/vsparrow/flex_frontend)
 
   * [Back end](https://github.com/vsparrow/flex_backend)
+
+#### Link to demo
+
+  * [Video](https://youtu.be/d4gxSpHnv6k)
   
 ********************************************************************************************************
 
@@ -140,3 +151,8 @@ Users are able to
 #### Link to Project's github folder
 
   * [Front end](https://github.com/vsparrow/module-one-final-project-guidelines-web-022018)
+    
+#### Link to demo
+
+  * [Video](https://youtu.be/zO_twqMKH7k)
+
