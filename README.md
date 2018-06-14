@@ -33,7 +33,6 @@ Users are able to
 #### Link to Project's github folder
 
   * [Front end](https://github.com/vsparrow/RecruiterReviewFrontend)
-
   * [Back end](https://github.com/vsparrow/RecruiterReviewBackend)
   
 #### Link to demo
@@ -64,7 +63,6 @@ Users are able to
 #### Link to Project's github folder
 
   * [Front end](https://github.com/vsparrow/Online-Poker-Frontend)
-
   * [Back end](https://github.com/vsparrow/Online-Poker-Backend)
 
 #### Single Player 
@@ -100,12 +98,13 @@ Users are able to
 #### Link to Project's github folder
 
   * [Front end](https://github.com/vsparrow/flex_frontend)
-
   * [Back end](https://github.com/vsparrow/flex_backend)
 
 #### Link to demo
 
   * [Video](https://youtu.be/d4gxSpHnv6k)
+  * [Live Site](https://flex-the-app.herokuapp.com/)  
+
   
 ********************************************************************************************************
 
